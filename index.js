@@ -36,7 +36,7 @@ const cardHandler = () => {
             }
             else {
                 popUpIndicator = 1;
-                
+                                
                 closeBtn.addClass('close-btn-active');
                 $(item).addClass('fullscreen-card-item');
                 avatar.addClass('fullscreen-avatar');
